@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am very passionate about Technology, So after my undergraduation I worked as a Developer. I want to gain more knowledge in Technology, So I took Computer Science in Master's at Northwest Missouri State University and want to be as a Full Stack Developer.
-Coming to my Acitivities, I love playing Badminton and sometimes I do pencil art. I have few collections of my pencil art.
+####I am very passionate about Technology, So after my undergraduation I worked as a Developer. I want to gain more knowledge in Technology, So I took Computer Science in Master's at Northwest Missouri State University and want to be as a Full Stack Developer.
+
+####Coming to my Acitivities, I love playing Badminton and sometimes I do pencil art. I have few collections of my pencil art.
+
