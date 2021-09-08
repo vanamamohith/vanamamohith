@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### I am very passionate about Technology, So after my undergraduation I worked as a Developer. I want to gain more knowledge in Technology, So I took Computer Science in Master's at Northwest Missouri State University and want to be as a Full Stack Developer.
 
-#### Coming to my Acitivities, I love playing Badminton and sometimes I do Art. I have few collections of my pencil art, Clay art and Crayon art.
+#### Coming to my Acitivities, I love playing Badminton and I do Art. I have few collections of my Art.
 ## Clay Art ![Clay Art](Clay.jpeg)
 
 ## Pencil art ![Pencil art](Pencil1.jpeg)
