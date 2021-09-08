@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 #### Coming to my Acitivities, I love playing Badminton and sometimes I do Art. I have few collections of my pencil art, Clay art and Crayon art.
 ## Clay Art ![Clay Art](Clay.jpeg)
 
+## Pencil art ![Pencil art](Pencil1.jpeg)
+![Pencil Art](Pencil2.jpeg)
+
+## Crayon Art ![Crayon art](Crayon1.jpeg)
+![Crayon Art](Crayon2.jpeg)
+
+---
+
 
